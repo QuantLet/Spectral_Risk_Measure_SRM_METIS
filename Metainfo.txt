@@ -10,6 +10,6 @@ Author: 'Xingjia Wang'
 
 See also: ''
 
-Submitted:  '05.06.2023'
+Submitted: '05.06.2023'
 
 Additional Info : ''
