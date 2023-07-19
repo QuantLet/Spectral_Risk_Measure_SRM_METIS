@@ -1,4 +1,4 @@
-Name of Quantlet: Spectral_Risk_Measure_SRM_METIS
+Name of Quantlet: 'Spectral_Risk_Measure_SRM_METIS'
 
 Published in: ''
 
