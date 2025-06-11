@@ -1,6 +1,6 @@
 Name of Quantlet: 'Spectral_Risk_Measure_SRM_METIS'
 
-Published in: ''
+Published in: 'Spectral Risk Measure in MSCA DIGITAL'
 
 Description: 'Code for METIS Talk Spectral Risk Measure'
 
